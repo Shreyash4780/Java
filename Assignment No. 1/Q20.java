@@ -15,7 +15,7 @@ class Two implements One {
 
 class Q20 {
     public static void main(String[] args) {
-        One myTwo = new Two();
+        Two myTwo = new Two();
         myTwo.Show(); 
     }
 }
